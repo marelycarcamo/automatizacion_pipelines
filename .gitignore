@@ -1,0 +1,16 @@
+# Entornos virtuales
+airflow_env/
+venv/
+env/
+ENV/
+bin/
+lib/
+include/
+
+# Archivos de configuración de venv
+pyvenv.cfg
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+*$py.class
